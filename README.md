@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I am Fadil Al Farhan
+### Front-end Developer student at KYH Stockholm
 
-<!--
-**FaaDiiL/FaaDiiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- MongoDB
+- Node.js
+- Git
+- Figma
+- Photoshop
+
+
+### I Love
+ - Coding
+ - Family time
+ 
+### What is in the scope right now?
+- 🔭 I’m working on rebuilding my personal portfolio
+- 🌱 I’m currently learning React.js
+
+### Whant me to create you a project?
+- 💬 What can i do for you?
+
+
+#### You can reach me at:
+
+📫 fadil.alfarhan@gmail.com
