@@ -3,7 +3,7 @@
 
 
 ### Languages and tools
-
+- <img src="https://user-images.githubusercontent.com/18538595/208375628-f8ff4ae5-cddd-4abe-bc54-bb59870d2598.svg" alt="typescript" width="40" height="40"/> </a>JAVA
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="typescript" width="40" height="40"/> </a>HTML5
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="typescript" width="40" height="40"/> </a>CSS3
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40"/> </a>JavaScript
