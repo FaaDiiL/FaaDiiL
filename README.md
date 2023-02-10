@@ -1,6 +1,12 @@
 # Hi there, I am Fadil Al Farhan
 ### Front-end Developer student at KYH Stockholm
+As a full-stack developer, I have a deep love for code and a passion for creating cutting-edge digital experiences. My expertise lies in HTML/CSS and JavaScript frameworks such as React and Redux, but I am constantly exploring new technologies to expand my skill set. Currently, I am also taking an online course on Java through Udemy to further broaden my knowledge.
 
+My background in computer science has given me a strong foundation in programming principles, and I am dedicated to staying up-to-date on the latest industry trends. Whether working independently or as part of a team, I always strive to create high-quality, user-centered solutions.
+
+My ultimate goal is to become a certified full-stack developer and to continue improving my coding skills. I believe that the field of technology is constantly evolving, and it is important to stay ahead of the curve in order to deliver the best possible outcomes for clients.
+
+In my free time, I enjoy contributing to open-source projects and participating in hackathons. I am a firm believer in the power of collaboration and I value the opportunity to learn from others in the tech community. With my technical skills and passion for coding, I am confident in my ability to bring innovative solutions to any project.
 
 ### Languages and tools
 - <img src="https://user-images.githubusercontent.com/18538595/208375628-f8ff4ae5-cddd-4abe-bc54-bb59870d2598.svg" alt="typescript" width="40" height="40"/> </a>JAVA
